@@ -1,2 +1,5 @@
 # WEBSITEM
-HTML VE CSS İLE YAZILMIŞTIR.
+Gizemnur TETİK
+191522009
+Bilgisayar Mühendisliği Bölümü
+Html ve css kullanarak yazdım.
